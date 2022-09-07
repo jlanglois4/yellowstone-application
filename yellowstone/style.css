@@ -1,0 +1,33 @@
+p {
+    margin-top: 1em;
+}
+
+.container {
+    max-width: 960px;
+}
+
+h6 {
+    margin-bottom: 2em;
+    text-align: center;
+}
+
+#accordion {
+    text-align: center;
+}
+
+#fullTime, #startDate, #endDate, #yesNoPositions {
+    margin-bottom: 1em;
+}
+
+#footer {
+    list-style-type: none;
+}
+
+.addAnother {
+    margin-top: 1em;
+    text-align: center;
+}
+
+.addAnother button {
+    background-color: gray;
+}
